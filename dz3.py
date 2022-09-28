@@ -7,4 +7,4 @@ def kunkka(text, year, month, day):
     f.close()
 print()
 
-kunkka('ангелы...', 1777, 10, 7)
+kunkka('my last message...', 1777, 10, 8)
